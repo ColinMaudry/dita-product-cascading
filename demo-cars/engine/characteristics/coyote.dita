@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE p-topic PUBLIC "-//NXP//DTD P-Topic//EN" "http://nww.prod.spider.nxp.com:8510/xmetal/schemas/p-topic.dtd">
+<p-topic id="ch_coyote">
+	<title><keyword keyref="transmission-name"/> characteristics</title>
+	<body>
+		<table>
+			<tgroup cols="3">
+				<colspec/>
+				<colspec/>
+				<colspec/>
+				<tbody>
+					<row>
+						<entry>
+							<p>Recommended front inflation</p>
+						</entry>
+						<entry>
+							<p><ph id="front-inflation">36</ph></p>
+						</entry>
+						<entry>
+							<p>psi</p>
+						</entry>
+					</row>
+					<row>
+						<entry>
+							<p>Recommended rear inflation</p>
+						</entry>
+						<entry>
+							<p><ph id="car-width">42</ph></p>
+						</entry>
+						<entry>
+							<p>psi</p>
+						</entry>
+					</row>
+					<row>
+						<entry>
+							<p>Tread depth</p>
+						</entry>
+						<entry>
+							<p><ph id="tread-depth">10</ph></p>
+						</entry>
+						<entry>
+							<p>mm</p>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+			
+		</table>
+	</body>
+</p-topic>

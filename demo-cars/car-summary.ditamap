@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datasheet PUBLIC "-//NXP//DTD Datasheet//EN" "http://nww.qa.spider.nxp.com/xmetal/schemas/datasheet.dtd">
+<datasheet title="Forester range" id="ds_for" rev="0.5">
+	
+	<topicref keyref="desc"/>
+	
+	<topicgroup type="benefits"/>
+	
+</datasheet>
