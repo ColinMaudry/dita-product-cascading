@@ -2,7 +2,7 @@
 <!DOCTYPE datasheet PUBLIC "-//NXP//DTD Datasheet//EN" "http://nww.qa.spider.nxp.com/xmetal/schemas/datasheet.dtd">
 <datasheet title="4x4 transmission" id="ds_coyote" rev="0.5">
 	
-	<keydef keys="transmission-name">
+	<keydef keys="engine-name">
 		<topicmeta>
 			<keywords>
 				<keyword>Coyote engine</keyword>
