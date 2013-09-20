@@ -8,3 +8,6 @@ The features such as keys, conkeyref and conref push are used to:
   - same thing, but for the components
   - the product characteristics (values) are available to the author via variables (conkeyref)
   - the information and the document structure are separated. The same information can be reused in multiple document structures, the document map just need to import (mapref) the necessary information module (map).
+  
+  I have made up the information content of this demo. The content describes a range of cars, the Forrester range. The structure of the modules is represented here: https://www.lucidchart.com/documents/view/474c-c584-5087ba4c-8f89-1ba10a40476b
+ 
