@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datasheet PUBLIC "-//NXP//DTD Datasheet//EN" "http://nww.qa.spider.nxp.com/xmetal/schemas/datasheet.dtd">
+<datasheet id="ds_for" rev="0.5">
+	<title><keyword keyref="current-item-name"/></title>
+	
+	<mapref href="../information/sequoia.ditamap" processing-role="resource-only"/>
+
+	
+	<topicref keyref="description"/>
+		
+	<topicref href="topic/characteristics.dita" keys="characteristics"/>
+
+	
+</datasheet>

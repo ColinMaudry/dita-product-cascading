@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\nxp33280\CloudStation\work\dita\dita-product-cascading\demo-cars\document\temp\pdf\topic?><?workdir-uri file:/C:/Users/nxp33280/CloudStation/work/dita/dita-product-cascading/demo-cars/document/temp/pdf/topic/?><?path2project ..\?><p-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="characteristics" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                            (topic p-topic)                            (map nxpCommonMeta-d)                            (datasheet prodnameOnlyDatasheet-c)                            (p-topic noBlockinLiPTopic-c)                            (topic ut-d)   " class="- topic/topic p-topic/p-topic " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\topic\characteristics.dita" xtrc="p-topic:1;3:31">
+	<title class="- topic/title " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\topic\characteristics.dita" xtrc="title:1;4:9">Characteristics</title>
+	<body class="- topic/body " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\topic\characteristics.dita" xtrc="body:1;5:8">
+			<bodydiv class="- topic/bodydiv " xtrc="bodydiv:1;6:36" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+		<table class="- topic/table " xtrc="table:1;7:10" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+			<tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;8:84" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+				<colspec class="- topic/colspec " colname="col1" xtrc="colspec:1;9:15" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita"/>
+				<colspec class="- topic/colspec " colname="col2" xtrc="colspec:2;10:15" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita"/>
+				<thead class="- topic/thead " xtrc="thead:1;11:12" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+						<row class="- topic/row " xtrc="row:1;12:12" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+							<entry class="- topic/entry " colname="col1" nameend="col1" namest="col1" xtrc="entry:1;13:38" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita"><p class="- topic/p " xtrc="p:1;13:41" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita"><keyword class="- topic/keyword " keyref="absorbers-name" xtrc="keyword:2;13:75" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">Maelstrom absorbers</keyword> characteristics</p></entry>
+					</row>
+				</thead>
+				<tbody class="- topic/tbody " xtrc="tbody:1;16:12" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+					<row class="- topic/row " xtrc="row:2;17:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+						<entry class="- topic/entry " colname="col1" xtrc="entry:2;18:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+							<p class="- topic/p " xtrc="p:2;19:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">Maximum impact speed</p>
+						</entry>
+						<entry class="- topic/entry " colname="col2" xtrc="entry:3;21:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+							<p class="- topic/p " xtrc="p:3;22:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita"><ph class="- topic/ph " id="absorber-max-impact-speed" xtrc="ph:1;22:46" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">3 m/s</ph></p>
+						</entry>
+					</row>
+					<row class="- topic/row " xtrc="row:3;25:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+						<entry class="- topic/entry " colname="col1" xtrc="entry:4;26:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+							<p class="- topic/p " xtrc="p:4;27:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">Cushioning length</p>
+						</entry>
+						<entry class="- topic/entry " colname="col2" xtrc="entry:5;29:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">
+							<p class="- topic/p " xtrc="p:5;30:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita"><ph class="- topic/ph " id="absorber-cushioning-length" xtrc="ph:2;30:47" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita">12 mm</ph></p>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		</bodydiv><bodydiv class="- topic/bodydiv " xtrc="bodydiv:1;6:36" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+		<table class="- topic/table " xtrc="table:1;7:10" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+			<tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;8:21" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+				<colspec class="- topic/colspec " colname="col1" xtrc="colspec:1;9:15" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita"/>
+				<colspec class="- topic/colspec " colname="col2" xtrc="colspec:2;10:15" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita"/>
+				<tbody class="- topic/tbody " xtrc="tbody:1;11:12" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+					<row class="- topic/row " xtrc="row:1;12:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+						<entry class="- topic/entry " colname="col1" xtrc="entry:1;13:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+							<p class="- topic/p " xtrc="p:1;14:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">Horse power</p>
+						</entry>
+						<entry class="- topic/entry " colname="col2" xtrc="entry:2;16:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+							<p class="- topic/p " xtrc="p:2;17:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita"><ph class="- topic/ph " id="horse-power" xtrc="ph:1;17:32" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">340 hp</ph></p>
+						</entry>
+					</row>
+					<row class="- topic/row " xtrc="row:2;20:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+						<entry class="- topic/entry " colname="col1" xtrc="entry:3;21:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+							<p class="- topic/p " xtrc="p:3;22:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">Maximum speed</p>
+						</entry>
+						<entry class="- topic/entry " colname="col2" xtrc="entry:4;24:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+							<p class="- topic/p " xtrc="p:4;25:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita"><ph class="- topic/ph " id="max-speed" xtrc="ph:2;25:30" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">220 km/h</ph></p>
+						</entry>
+					</row>
+					<row class="- topic/row " xtrc="row:3;28:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+						<entry class="- topic/entry " colname="col1" xtrc="entry:5;29:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+							<p class="- topic/p " xtrc="p:5;30:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">Acceleration (0 to 100 km/h)</p>
+						</entry>
+						<entry class="- topic/entry " colname="col2" xtrc="entry:6;32:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+							<p class="- topic/p " xtrc="p:6;33:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita"><ph class="- topic/ph " id="acceleration" xtrc="ph:3;33:33" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">6.5 s</ph></p>
+						</entry>
+					</row>
+					<row class="- topic/row " xtrc="row:4;36:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+						<entry class="- topic/entry " colname="col1" xtrc="entry:7;37:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+							<p class="- topic/p " xtrc="p:7;38:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">Consumption</p>
+						</entry>
+						<entry class="- topic/entry " colname="col2" xtrc="entry:8;40:14" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">
+							<p class="- topic/p " xtrc="p:8;41:11" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita"><ph class="- topic/ph " id="consumption" xtrc="ph:4;41:32" xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\engine\characteristics\coyote.dita">6.0 l/100 km</ph></p>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		</bodydiv><bodydiv id="tables" class="- topic/bodydiv " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\topic\characteristics.dita" xtrc="bodydiv:1;6:26"/>
+	</body>
+</p-topic>

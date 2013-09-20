@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\nxp33280\CloudStation\work\dita\dita-product-cascading\demo-cars\document\temp\pdf\oxy_ex-1\information\absorber\characteristics?><?workdir-uri file:/C:/Users/nxp33280/CloudStation/work/dita/dita-product-cascading/demo-cars/document/temp/pdf/oxy_ex-1/information/absorber/characteristics/?><?path2project ..\..\..\..\?><p-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="ch_v33" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                            (topic p-topic)                            (map nxpCommonMeta-d)                            (datasheet prodnameOnlyDatasheet-c)                            (p-topic noBlockinLiPTopic-c)                            (topic ut-d)   " class="- topic/topic p-topic/p-topic " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="p-topic:1;3:22">
+	<title class="- topic/title " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="title:1;4:9"><keyword keyref="absorbers-name" class="- topic/keyword " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="keyword:1;4:43">Maelstrom absorbers</keyword> characteristics</title>
+	<body class="- topic/body " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="body:1;5:8">
+		<bodydiv class="- topic/bodydiv " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="bodydiv:1;6:36">
+		<table class="- topic/table " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="table:1;7:10">
+			<tgroup cols="2" class="- topic/tgroup " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="tgroup:1;8:84">
+				<colspec colname="col1" class="- topic/colspec " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="colspec:1;9:15"/>
+				<colspec colname="col2" class="- topic/colspec " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="colspec:2;10:15"/>
+				<thead class="- topic/thead " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="thead:1;11:12">
+						<row class="- topic/row " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="row:1;12:12">
+							<entry colname="col1" namest="col1" nameend="col1" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="entry:1;13:38"><p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="p:1;13:41"><keyword keyref="absorbers-name" class="- topic/keyword " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="keyword:2;13:75">Maelstrom absorbers</keyword> characteristics</p></entry>
+					</row>
+				</thead>
+				<tbody class="- topic/tbody " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="tbody:1;16:12">
+					<row class="- topic/row " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="row:2;17:11">
+						<entry colname="col1" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="entry:2;18:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="p:2;19:11">Maximum impact speed</p>
+						</entry>
+						<entry colname="col2" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="entry:3;21:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="p:3;22:11"><ph id="absorber-max-impact-speed" class="- topic/ph " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="ph:1;22:46">3 m/s</ph></p>
+						</entry>
+					</row>
+					<row class="- topic/row " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="row:3;25:11">
+						<entry colname="col1" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="entry:4;26:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="p:4;27:11">Cushioning length</p>
+						</entry>
+						<entry colname="col2" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="entry:5;29:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="p:5;30:11"><ph id="absorber-cushioning-length" class="- topic/ph " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379695108732\t1\t2\t3\t4\t5\oxy_ex-1\information\absorber\characteristics\maelstrom.dita" xtrc="ph:2;30:47">12 mm</ph></p>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		</bodydiv>
+		
+	</body>
+</p-topic>

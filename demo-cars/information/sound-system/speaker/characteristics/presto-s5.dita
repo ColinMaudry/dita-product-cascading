@@ -3,10 +3,12 @@
 <p-topic id="ch_v33">
 	<title><keyword keyref="speakers-name"/> characteristics</title>
 	<body>
-		<table id="table">
+		<!-- This is the characteristics module of a sub-component. By default, it is not directly pushed to the "Characteristics" section, it is first imported by its super component. -->
+		<bodydiv id="import">
+		<table>
 			<tgroup cols="2">
-				<colspec/>
-				<colspec/>
+				<colspec colname="1"/>
+				<colspec colname="2"/>
 				<tbody>
 					<row>
 						<entry namest="1" nameend="2"><p><keyword keyref="speakers-name"/> characteristics</p></entry>
@@ -29,7 +31,7 @@
 					</row>
 				</tbody>
 			</tgroup>
-			
 		</table>
+		</bodydiv>
 	</body>
 </p-topic>

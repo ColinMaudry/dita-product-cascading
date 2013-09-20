@@ -9,6 +9,6 @@
 		</topicmeta>
 	</keydef>
 	<topicref href="topics/description/forrester.dita" keys="description" type="topic"/>
-	<mapref href="tire/obsidian.ditamap"/>
-	<mapref href="absorber/maelstrom.ditamap"/>
+	<mapref href="tires/obsidian.ditamap"/>
+	<mapref href="absorbers/maelstrom.ditamap"/>
 </datasheet>

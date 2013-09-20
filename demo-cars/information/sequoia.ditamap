@@ -12,7 +12,7 @@
 	
 	<mapref href="forrester.ditamap"/>
 	<topicref href="topics/description/sequoia.dita" keys="description"/>
-	
+	<mapref href="engine/coyote.ditamap"/>
 	<mapref href="sound-system/scala.ditamap"/>
 	
 </datasheet>

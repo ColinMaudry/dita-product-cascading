@@ -3,7 +3,9 @@
 <p-topic id="ch_coyote">
 	<title><keyword keyref="engine-name"/> characteristics</title>
 	<body>
-		<table id="table">
+		<!-- if you want to define the rank of this module in the "Characteristics" section, replace the <bodydiv> element such as <bodydiv conkeyref="characteristics/[component-name]"/>, and comment out the <bodydiv> at the end of the topic.  -->
+		<bodydiv conaction="pushbefore">
+		<table>
 			<tgroup cols="2">
 				<colspec/>
 				<colspec/>
@@ -42,7 +44,9 @@
 					</row>
 				</tbody>
 			</tgroup>
-			
 		</table>
+		</bodydiv>
+		<!-- If you want to define the rank of this module in the target topic, comment out the line below  -->
+		<bodydiv conaction="mark" conkeyref="characteristics/unordered"/>
 	</body>
 </p-topic>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\nxp33280\CloudStation\work\dita\dita-product-cascading\demo-cars\information\temp\pdf\tire\characteristics?><?workdir-uri file:/C:/Users/nxp33280/CloudStation/work/dita/dita-product-cascading/demo-cars/information/temp/pdf/tire/characteristics/?><?path2project ..\..\?><p-topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="ch_obsidian" ditaarch:DITAArchVersion="1.2" domains="(topic hi-d)                            (topic p-topic)                            (map nxpCommonMeta-d)                            (datasheet prodnameOnlyDatasheet-c)                            (p-topic noBlockinLiPTopic-c)                            (topic ut-d)   " class="- topic/topic p-topic/p-topic " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="p-topic:1;3:27">
+	<title class="- topic/title " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="title:1;4:9"><keyword keyref="tires-name" class="- topic/keyword " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="keyword:1;4:39">Obsidian tires</keyword> characteristics</title>
+	<body class="- topic/body " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="body:1;5:8">
+		<table id="table" class="- topic/table " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="table:1;6:21">
+			<tgroup cols="2" class="- topic/tgroup " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="tgroup:1;7:21">
+				<colspec colname="col1" class="- topic/colspec " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="colspec:1;8:15"/>
+				<colspec colname="col2" class="- topic/colspec " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="colspec:2;9:15"/>
+				<tbody class="- topic/tbody " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="tbody:1;10:12">
+					<row class="- topic/row " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="row:1;11:11">
+						<entry colname="col1" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="entry:1;12:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="p:1;13:11">Recommended front inflation</p>
+						</entry>
+						<entry colname="col2" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="entry:2;15:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="p:2;16:11"><ph id="front-inflation" class="- topic/ph " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="ph:1;16:36">36 psi</ph></p>
+						</entry>
+					</row>
+					<row class="- topic/row " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="row:2;19:11">
+						<entry colname="col1" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="entry:3;20:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="p:3;21:11">Recommended rear inflation</p>
+						</entry>
+						<entry colname="col2" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="entry:4;23:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="p:4;24:11"><ph id="rear-inflation" class="- topic/ph " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="ph:2;24:35">42 psi</ph></p>
+						</entry>
+					</row>
+					<row class="- topic/row " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="row:3;27:11">
+						<entry colname="col1" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="entry:5;28:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="p:5;29:11">Tread depth</p>
+						</entry>
+						<entry colname="col2" class="- topic/entry " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="entry:6;31:14">
+							<p class="- topic/p " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="p:6;32:11"><ph id="tread-depth" class="- topic/ph " xtrf="C:\Users\nxp33280\AppData\Local\Temp\OxygenXMLTemp\ditaTemporaryOutputDir-1379688690275\t1\t2\t3\t4\t5\tire\characteristics\obsidian.dita" xtrc="ph:3;32:32">10 mm</ph></p>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+	</body>
+</p-topic>
