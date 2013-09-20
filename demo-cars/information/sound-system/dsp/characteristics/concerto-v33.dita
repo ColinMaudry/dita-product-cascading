@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE p-topic PUBLIC "-//NXP//DTD P-Topic//EN" "http://nww.prod.spider.nxp.com:8510/xmetal/schemas/p-topic.dtd">
+<p-topic id="ch_v33">
+	<title><keyword keyref="dsp-name"/> characteristics</title>
+	<body>
+		<table id="table">
+			<tgroup cols="2">
+				<colspec/>
+				<colspec/>
+				<tbody>
+					<row>
+						<entry namest="1" nameend="2"><p><keyword keyref="dsp-name"/> characteristics</p></entry>
+					</row>
+					<row>
+						<entry>
+							<p>DSP clock speed</p>
+						</entry>
+						<entry>
+							<p><ph id="dsp-clock-speed">1 GHz</ph></p>
+						</entry>
+					</row>
+					<row>
+						<entry>
+							<p>DSP subsystem</p>
+						</entry>
+						<entry>
+							<p><ph id="max-speed">NovaCore SC3400</ph></p>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+	</body>
+</p-topic>
