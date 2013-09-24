@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE p-topic PUBLIC "-//NXP//DTD P-Topic//EN" "http://nww.prod.spider.nxp.com:8510/xmetal/schemas/p-topic.dtd">
-<p-topic id="ch_scala">
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ch_scala">
 	<title><keyword keyref="sound-system-name"/> characteristics</title>
 	<body>
 		<!-- if you want to define the rank of this module in the "Characteristics" section, replace the <bodydiv> element such as <bodydiv conkeyref="characteristics/[component-name]"/>, and comment out the <bodydiv> at the end of the topic.  -->
@@ -14,4 +14,4 @@
 		<!-- If you want to define the rank of this module in the target topic, comment out the line below  -->
 		<bodydiv conaction="mark" conkeyref="characteristics/unordered"/>
 	</body>
-</p-topic>
+</topic>

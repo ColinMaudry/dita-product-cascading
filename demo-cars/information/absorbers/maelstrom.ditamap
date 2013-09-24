@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE datasheet PUBLIC "-//NXP//DTD Datasheet//EN" "http://nww.qa.spider.nxp.com/xmetal/schemas/datasheet.dtd">
-<datasheet title="Maelstrom absorber" id="ds_maelstrom" rev="0.5">
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="Maelstrom absorber" id="ds_maelstrom" rev="0.5">
 	<keydef keys="absorbers-name">
 		<topicmeta>
 			<keywords>
@@ -13,4 +13,4 @@
 	<topicref href="features-benefits/fb-maelstrom.dita"/>
 
 	
-</datasheet>
+</map>

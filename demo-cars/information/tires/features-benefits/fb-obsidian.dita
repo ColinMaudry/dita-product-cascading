@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE p-topic PUBLIC "-//NXP//DTD P-Topic//EN" "http://nww.prod.spider.nxp.com:8510/xmetal/schemas/p-topic.dtd">
-<p-topic id="fb-obsidian">
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="fb-obsidian">
   <title>Features and benefits</title>
   <body>
   <ul>
@@ -8,4 +8,4 @@
   	<li><p>The <keyword keyref="tires-name"/> enable extra water evacuation, for a world-class wet performance.</p></li>
   </ul>
   </body>
-</p-topic>
+</topic>
