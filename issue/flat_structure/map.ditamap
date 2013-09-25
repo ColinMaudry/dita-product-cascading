@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="ds_doc" rev="0.5">
+	<title>My map</title>
+	<keydef keys="bla">
+		<topicmeta>
+			<keywords>
+				<keyword>KEY</keyword>
+			</keywords>
+		</topicmeta>
+	</keydef>
+	<topicref href="source.dita" processing-role="normal" format="dita"/>
+	<topicref href="target.dita" keys="target" format="dita"/>
+</map>

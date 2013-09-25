@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="source">
+	<title>Source</title>
+	<body>
+		<p conaction="pushbefore">This is the conref pushed content, with a <keyword keyref="bla"/></p>
+		<p conaction="mark" conkeyref="target/anchor"/>
+	</body>
+</topic>
