@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="to2_rbg_gk">
+<topic id="to2_rbg_k">
   <title>Features and benefits</title>
   <body>
+  	<bodydiv conaction="pushbefore">
   	<ul>
   		<li>
   			<p>Optimum suspension damping control ensures superb tyre to road contact.</p>
@@ -11,5 +12,7 @@
   			<p>Excellent roll and oversteer control.</p>
   		</li>
   	</ul>
+  	</bodydiv>
+  	<bodydiv conkeyref="features-benefits/unordered" conaction="mark"/>
   </body>
 </topic>
