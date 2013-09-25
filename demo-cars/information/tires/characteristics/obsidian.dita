@@ -9,14 +9,12 @@
 			<tgroup cols="2">
 				<colspec colname="1"/>
 				<colspec colname="2"/>
-				<tbody>
+				<thead>
 					<row>
-						<entry nameend="2" namest="1">
-							<p>
-								<keyword keyref="tires-name"/>
-							</p>
-						</entry>
+						<entry namest="1" nameend="2"><p>Tires characteristics</p></entry>
 					</row>
+				</thead>
+				<tbody>
 					<row>
 					<entry>
 							<p>Recommended front inflation</p>

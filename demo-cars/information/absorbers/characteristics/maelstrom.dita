@@ -10,7 +10,7 @@
 				<colspec colname="2"/>
 				<thead>
 						<row>
-							<entry namest="1" nameend="2"><p><keyword keyref="absorbers-name"/> characteristics</p></entry>
+							<entry namest="1" nameend="2"><p>Absorber characteristics</p></entry>
 					</row>
 				</thead>
 				<tbody>

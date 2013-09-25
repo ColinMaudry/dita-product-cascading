@@ -6,6 +6,7 @@
 	<mapref href="../information/sequoia.ditamap" processing-role="resource-only"/>
 
 	<topicref keyref="description"/>
+	<topicref format="dita" href="topic/features-benefits.dita" keys="features-benefits" type="topic"/>
 		
 	<topicref href="topic/characteristics.dita" keys="characteristics" format="dita"/>
 

@@ -4,15 +4,17 @@
 	<title><keyword keyref="dsp-name"/> characteristics</title>
 	<body>
 		<!-- This is the characteristics module of a sub-component. By default, it is not directly pushed to the "Characteristics" section, it is first imported by its super component. -->
-		<bodydiv id="import">
+		<bodydiv conaction="pushbefore" id="import">
 		<table>
 			<tgroup cols="2">
 				<colspec colname="1"/>
 				<colspec colname="2"/>
-				<tbody>
+				<thead>
 					<row>
-						<entry namest="1" nameend="2"><p><keyword keyref="dsp-name"/> characteristics</p></entry>
+						<entry namest="1" nameend="2"><p>DSP characteristics</p></entry>
 					</row>
+				</thead>
+				<tbody>
 					<row>
 						<entry>
 							<p>DSP clock speed</p>
@@ -33,6 +35,8 @@
 			</tgroup>
 		</table>
 		</bodydiv>
+		<!-- If you want to define the rank of this module in the target topic, comment out the line below  -->
+		<bodydiv conaction="mark" conkeyref="characteristics/unordered"/>
 		
 	</body>
 </topic>

@@ -9,6 +9,11 @@
 			<tgroup cols="2">
 				<colspec colname="1"/>
 				<colspec colname="2"/>
+				<thead>
+					<row>
+						<entry namest="1" nameend="2"><p>Engine characteristics</p></entry>
+					</row>
+				</thead>
 				<tbody>
 					<row>
 						<entry nameend="2" namest="1"><p><keyword keyref="engine-name"/></p></entry>

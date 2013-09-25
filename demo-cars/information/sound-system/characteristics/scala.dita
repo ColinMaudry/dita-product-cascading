@@ -7,8 +7,10 @@
 		<bodydiv conaction="pushbefore" id="import">
 			
 			<!-- The "scala" component doesn't have characteristics, it only inherits those from its sub-components. They are list here. -->
-			<bodydiv conkeyref="speakers-characteristics/import"/>
-			<bodydiv conkeyref="dsp-characteristics/import"/>
+			<!--
+				Doesn't work
+				<bodydiv conkeyref="speakers-characteristics/import"/>
+			<bodydiv conkeyref="dsp-characteristics/import"/>-->
 					
 		</bodydiv>
 		<!-- If you want to define the rank of this module in the target topic, comment out the line below  -->
