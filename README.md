@@ -12,9 +12,9 @@ The features such as keys, conkeyref and conref push are used to:
   
 I have made up the information content of this demo. The content describes a range of cars, the Forrester range. The structure of the modules is represented here: https://www.lucidchart.com/documents/view/474c-c584-5087ba4c-8f89-1ba10a40476b
   
-## Spotted limitations (to be confirmed)
+## Spotted limitations (confirmed)
 
-* If a key reference is included in an element or a block that is conref pushed, it is not resolved.
-* If an element A is pushed inside a block/element B that is also conref pushed, element A is not pushed.
+* If a key reference is included in an element or a block that is conref pushed, it is not resolved (the issue https://github.com/dita-ot/dita-ot/issues/1572).
+* If an element A is pushed inside a block/element B that is also conref pushed, element A is not pushed (the issue https://github.com/dita-ot/dita-ot/issues/1573).
 
  
