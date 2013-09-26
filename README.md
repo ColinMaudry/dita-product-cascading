@@ -15,6 +15,6 @@ I have made up the information content of this demo. The content describes a ran
 # Spotted limitations (to be confirmed)
 
 * If a key reference is included in an element or a block that is conref pushed, it is not resolved.
-* If an element A is pushed inside a block/element B that is also conref psuhed, element A is not pushed.
+* If an element A is pushed inside a block/element B that is also conref pushed, element A is not pushed.
 
  
