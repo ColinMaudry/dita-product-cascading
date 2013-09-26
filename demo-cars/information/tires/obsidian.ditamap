@@ -10,5 +10,5 @@
 		</topicmeta>
 	</keydef>
 	<topicref keys="tires-characteristics" href="characteristics/obsidian.dita"/>
-	<topicref keys="tires-features-benefits" href="features-benefits/fb-obsidian.dita"/>
+	<topicref keys="tires-features-benefits obsidian-features-benefits" href="features-benefits/fb-obsidian.dita"/>
 </map>
